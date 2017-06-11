@@ -1,0 +1,22 @@
+{
+  "name": "material-kit",
+  "version": "1.0.0",
+  "description": "Theme",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativetimofficial/material-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creativetimofficial/material-kit/issues"
+  },
+  "homepage": "https://github.com/creativetimofficial/material-kit#readme"
+}
